@@ -21,7 +21,6 @@
 # ------------------------------------------
 import pyspark
 
-
 # ------------------------------------------
 # FUNCTION process_line
 # ------------------------------------------
@@ -42,13 +41,20 @@ def process_line(line):
     # 5. We return res
     return res
 
-
 # ------------------------------------------
 # FUNCTION my_main
 # ------------------------------------------
 def my_main(sc, my_dataset_dir):
-    pass
-
+    inputRDD = sc.textFile(my_dataset_dir)
+    mappedRDD = inputRDD.map(lambda line: process_line(line))
+    filteredRDD = mappedRDD.filter(lambda item: item[0] == '0' and item[5] == '0')
+    locationNamesRDD = filteredRDD.map(lambda item: [item[1]])
+    reducedRDD = locationNamesRDD.reduceByKey(lambda x, y: x + y)
+    collectedRDD = reducedRDD.collect()
+    
+    for item in collectedRDD:
+      print(item)
+    
 
 # --------------------------------------------------------
 #
@@ -69,7 +75,7 @@ if __name__ == '__main__':
     pass
 
     # 2. Local or Databricks
-    local_False_databricks_True = False
+    local_False_databricks_True = True
 
     # 3. We set the path to my_dataset
     my_local_path = "/home/nacho/CIT/Tools/MyCode/Spark/"
