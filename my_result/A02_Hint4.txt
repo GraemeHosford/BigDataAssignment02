@@ -1,0 +1,165 @@
+-------------------------------------------
+Time: 2019-05-09 15:00:30
+-------------------------------------------
+
+-------------------------------------------
+Time: 2019-05-09 15:00:30
+-------------------------------------------
+
+-------------------------------------------
+Time: 2019-05-09 15:00:40
+-------------------------------------------
+('Clontarf Street', 7)
+
+-------------------------------------------
+Time: 2019-05-09 15:00:40
+-------------------------------------------
+('Clontarf Street', 7)
+
+-------------------------------------------
+Time: 2019-05-09 15:00:50
+-------------------------------------------
+('South Gate Bridge', 15)
+('Kent Station', 15)
+('Brian Boru Bridge', 14)
+('Clontarf Street', 9)
+('Lower Glanmire Rd.', 9)
+("Fitzgerald's Park", 5)
+('Cork School of Music', 4)
+('South Main St.', 3)
+('Mercy Hospital', 1)
+('Gaol Walk', 1)
+
+-------------------------------------------
+Time: 2019-05-09 15:00:50
+-------------------------------------------
+('South Gate Bridge', 15)
+('Kent Station', 15)
+('Brian Boru Bridge', 14)
+('Clontarf Street', 9)
+('Lower Glanmire Rd.', 9)
+("Fitzgerald's Park", 5)
+('Cork School of Music', 4)
+('South Main St.', 3)
+('Mercy Hospital', 1)
+('Gaol Walk', 1)
+
+-------------------------------------------
+Time: 2019-05-09 15:01:00
+-------------------------------------------
+('South Gate Bridge', 20)
+('Kent Station', 19)
+('Brian Boru Bridge', 16)
+('Gaol Walk', 10)
+('Clontarf Street', 9)
+("Fitzgerald's Park", 9)
+('Lower Glanmire Rd.', 9)
+('Mercy Hospital', 6)
+('Bandfield', 5)
+('South Main St.', 5)
+('Cork School of Music', 4)
+('Emmet Place', 3)
+
+-------------------------------------------
+Time: 2019-05-09 15:01:00
+-------------------------------------------
+('South Gate Bridge', 20)
+('Kent Station', 19)
+('Brian Boru Bridge', 16)
+('Gaol Walk', 10)
+("Fitzgerald's Park", 9)
+('Lower Glanmire Rd.', 9)
+('Mercy Hospital', 6)
+('Bandfield', 5)
+('South Main St.', 5)
+('Cork School of Music', 4)
+('Emmet Place', 3)
+('Clontarf Street', 2)
+
+-------------------------------------------
+Time: 2019-05-09 15:01:10
+-------------------------------------------
+('Kent Station', 23)
+('South Gate Bridge', 20)
+('Mercy Hospital', 19)
+('Bandfield', 18)
+('Brian Boru Bridge', 16)
+('Gaol Walk', 14)
+("Fitzgerald's Park", 10)
+('Clontarf Street', 9)
+('Lower Glanmire Rd.', 9)
+('South Main St.', 5)
+('Corn Market St.', 5)
+('Cork School of Music', 4)
+('Emmet Place', 3)
+
+-------------------------------------------
+Time: 2019-05-09 15:01:10
+-------------------------------------------
+('Mercy Hospital', 18)
+('Bandfield', 18)
+('Gaol Walk', 13)
+('Kent Station', 8)
+('South Gate Bridge', 5)
+("Fitzgerald's Park", 5)
+('Corn Market St.', 5)
+('Emmet Place', 3)
+('South Main St.', 2)
+('Brian Boru Bridge', 2)
+
+-------------------------------------------
+Time: 2019-05-09 15:01:20
+-------------------------------------------
+('Kent Station', 23)
+('South Gate Bridge', 20)
+('Mercy Hospital', 20)
+('Bandfield', 20)
+("Fitzgerald's Park", 18)
+('Brian Boru Bridge', 17)
+('Gaol Walk', 14)
+('Clontarf Street', 9)
+('Lower Glanmire Rd.', 9)
+('South Main St.', 5)
+('Corn Market St.', 5)
+('Cork School of Music', 4)
+('Emmet Place', 3)
+
+-------------------------------------------
+Time: 2019-05-09 15:01:20
+-------------------------------------------
+('Bandfield', 15)
+('Mercy Hospital', 14)
+("Fitzgerald's Park", 9)
+('Corn Market St.', 5)
+('Gaol Walk', 4)
+('Kent Station', 4)
+('Brian Boru Bridge', 1)
+
+-------------------------------------------
+Time: 2019-05-09 15:01:30
+-------------------------------------------
+('Bishop St.', 66)
+('South Gate Bridge', 52)
+("Fitzgerald's Park", 24)
+('Bandfield', 23)
+('Kent Station', 23)
+('Mercy Hospital', 20)
+('Brian Boru Bridge', 17)
+('Gaol Walk', 14)
+('Clontarf Street', 9)
+('Lower Glanmire Rd.', 9)
+('Cork School of Music', 9)
+('South Main St.', 5)
+('Corn Market St.', 5)
+('Emmet Place', 3)
+
+-------------------------------------------
+Time: 2019-05-09 15:01:30
+-------------------------------------------
+('Bishop St.', 66)
+('South Gate Bridge', 32)
+("Fitzgerald's Park", 14)
+('Bandfield', 5)
+('Cork School of Music', 5)
+('Mercy Hospital', 1)
+('Brian Boru Bridge', 1)
